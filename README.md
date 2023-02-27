@@ -1,7 +1,7 @@
 [![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)](https://github.com/Dilnaz-kaur22)
 <h1 align="center">Hi 👋, I'm Dilnaz Kaur</h1>
 <h3 align="center">A passionate frontend developer student from Canada</h3>
-<img allign= "right" width="400" alt="coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img allign= "right" width="400" alt="coding" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dilnaz-kaur22&label=Profile%20views&color=0e75b6&style=flat" alt="dilnaz-kaur22" /> </p>
 
